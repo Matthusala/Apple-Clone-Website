@@ -1,0 +1,144 @@
+/* first highlight wrapper begin here */
+.highlight-wrapper{
+    background-image: url("../images/hero/hero_iphone14pro_spring__9xo85pm6sbmm_large.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.internal-highlight-wrapper {
+    text-align: center;
+    color: white;
+    padding-top: 75px;
+    padding-bottom: 400px;
+}
+
+.iPhone-14-Pro{
+    font-size: 56px;
+    font-weight: 700;
+}
+
+.Pro-Beyond{
+    font-size: 28px;
+    padding-top: 20px;
+}
+
+.highlight-list-wrapper ul li{
+    display: inline-block;
+}
+
+.highlight-list-wrapper ul li a{
+    font-size: 20px;
+    color: #06c;
+    padding-right: 25px;
+    padding-top: 15px;
+}
+
+.highlight-list-wrapper ul li a:hover{
+    text-decoration: underline;
+}
+/* first highlight wrapper ends here */
+
+
+/* second highlight wrapper begins here */
+.second-highlight-wrapper{
+    background-image: url("../images/hero/hero_iphone14_yellow__eun20sn4imi6_large.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.second-internal-highlight-wrapper{
+    margin-top: 10px;
+    text-align: center;
+    padding-top: 55px;
+    padding-bottom: 400px;
+}
+
+.iPhone-14{
+    font-size: 50px;
+    font-weight: 550;
+    color: #1d1d1f;
+}
+
+.wounderfull{
+    font-size: 28px;
+    padding-top: 10px;
+    color: #1d1d1f;
+}
+
+.second-highlight-wrapper-list ul li{
+    display: inline-block;
+}
+
+.second-highlight-wrapper-list ul li a{
+    font-size: 20px;
+    padding-right: 25px;
+    padding-top: 15px;
+    color: #06c;
+}
+
+.second-highlight-wrapper-list ul li a:hover{
+    text-decoration: underline;
+}
+
+/* second highlight wrapper ends here */
+
+/* third highlight wrapper begins here */
+.third-highlight-wrapper{
+    background-image: url("../images/apple-watch-series-8/promo_apple_watch_series_8_spring__d9hfvufh7hyu_large.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 10px;
+}
+.Watch-series-8 img{
+    padding-top: 40px ;
+    width: 150px;
+
+}
+.third-highlight-wrapper {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 450px;
+    color: #ffff;
+}
+
+.watch-description{
+    font-size: 28px;
+    padding-top: 10px;
+}
+
+.third-highlight-wrapper-list ul li {
+    display: inline-block;
+}
+
+.third-highlight-wrapper-list ul li a{
+    font-size: 20px;
+    padding-right: 30px;
+    padding-top: 15px;
+    color: #2997ff;
+}
+/* third highlight wrapper ends here */
+
+/* fourth highlight wrapper begins here */
+
+.fourth-highlight-wrapper{
+    background-image: url("../images/iphone_tradein_promo__d5au3rkw5kuq_large.jpg");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.fourth-internal-highlight-wrapper{
+    text-align: center;
+    color: #1d1d1f;
+    padding-top: 20px;
+    padding-bottom: 400px;
+    align-items: center;
+}
+
+.Trade-in{
+    padding-top: 20px;
+    width: 150px;
+}
