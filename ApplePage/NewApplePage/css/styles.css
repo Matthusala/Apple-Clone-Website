@@ -56,3 +56,23 @@ img{
     text-decoration: underline;
     color:#363535;
 }
+
+.footer-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-list ul{
+    margin-top: 10px;
+    list-style: none;
+}
+
+.footer-list ul li{
+    padding-top: 10px;
+}
+
+.footer-list ul li a{
+    list-style-type: none;
+    text-decoration: none;
+    color: #6e6e73;
+}
