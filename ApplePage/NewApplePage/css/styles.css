@@ -62,8 +62,11 @@ img{
     justify-content: space-between;
 }
 
+.footer-list h4{
+    color: #363535;
+}
 .footer-list ul{
-    margin-top: 10px;
+    margin-top: 20px;
     list-style: none;
 }
 
@@ -75,4 +78,9 @@ img{
     list-style-type: none;
     text-decoration: none;
     color: #6e6e73;
+}
+
+.footer-list a:hover{
+    color: #363535;
+    text-decoration: underline;
 }
