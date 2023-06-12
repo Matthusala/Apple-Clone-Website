@@ -91,3 +91,60 @@ img{
     color: #363535;
     text-decoration: underline;
 }
+
+.highlight-Promo{
+    text-align: center;
+    color: #39393b;
+    font-size: 14px;
+    background-color: #ffffff;
+    padding-top: 45px;
+}
+
+.main-highlight-promo{
+    padding-top: 12px ;
+    font-size: 14px;
+}
+.promo-link {
+    color: #06c;
+    text-decoration: none;
+}
+.main-highlight-wrapper{
+    margin-top: 12px;
+    background-image: url("../images/heros/hero_apple_vision_pro__e8407ehady6i_large.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+}
+.inner-highlight-wrapper {
+    padding-top: 320px;
+    width: 550px;
+    margin: 0 auto;
+    text-align: center;
+    /* background-color: aqua; */
+}
+
+.highlight-image{
+    width: 250px;
+    padding-left: 150px;
+}
+.highlight-promo-description{
+    font-size: 25px;
+    font-weight: lighter;
+    padding-bottom: 10px;
+}
+.highlight-promo2-description{
+    font-size: 20px;
+    color: #6e6e73;
+    padding-bottom: 10px;
+}
+
+.hightlight-link a{
+    text-decoration: none;
+    font-size: 20px;
+    color: #06c;
+}
+
+.hightlight-link a:hover{
+    text-decoration: underline;
+}
