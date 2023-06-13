@@ -177,3 +177,28 @@ img{
 .title-wrapper img{
     width: 265px;
 }
+
+.main-highlight-wrapper-3{
+    background-image: url("../images/heros/hero_iphone14pro_spring__9xo85pm6sbmm_large.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 550px;
+    margin-top: 10px;
+}
+.internal-highlight-wrapper-3 {
+    width: 500px;
+    margin: auto;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.title-wrapper-iPhone-14-Pro {
+    color: #f5f5f7;
+    font-size: 55px ;
+}
+
+.description-wrapper-pro{
+    color: #f5f5f7;
+    font-size: 30px;
+}
